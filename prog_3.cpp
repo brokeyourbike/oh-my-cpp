@@ -3,9 +3,8 @@
 int main()
 {
     int sum = 0;
-
-    int range_start = 1;
-    int range_end = 10;
+    int range_start = 0;
+    int range_end = 0;
 
     std::cout << "Enter two numbers:";
     std::cout << std::endl;
